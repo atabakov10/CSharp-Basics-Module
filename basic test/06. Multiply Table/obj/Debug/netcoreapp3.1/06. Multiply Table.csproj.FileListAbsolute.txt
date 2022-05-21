@@ -1,0 +1,13 @@
+C:\Users\Angel\source\repos\test\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.exe
+C:\Users\Angel\source\repos\test\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.deps.json
+C:\Users\Angel\source\repos\test\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.json
+C:\Users\Angel\source\repos\test\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\test\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.dll
+C:\Users\Angel\source\repos\test\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.pdb
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfo.cs
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.dll
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.pdb
+C:\Users\Angel\source\repos\test\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\bin\Release\netcoreapp3.1\10. Invalid Number.exe
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\bin\Release\netcoreapp3.1\10. Invalid Number.deps.json
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\bin\Release\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\bin\Release\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\bin\Release\netcoreapp3.1\10. Invalid Number.dll
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\bin\Release\netcoreapp3.1\10. Invalid Number.pdb
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.dll
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.pdb
+C:\Users\Angel\source\repos\Harder excs\10. Invalid Number\obj\Release\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

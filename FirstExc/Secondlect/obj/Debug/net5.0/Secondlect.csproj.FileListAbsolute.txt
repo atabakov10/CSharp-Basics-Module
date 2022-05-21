@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\Secondlect.exe
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\Secondlect.deps.json
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\Secondlect.runtimeconfig.json
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\Secondlect.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\Secondlect.dll
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\ref\Secondlect.dll
+C:\Users\Angel\source\repos\FirstExc\Secondlect\bin\Debug\net5.0\Secondlect.pdb
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.AssemblyInfo.cs
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.dll
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\ref\Secondlect.dll
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.pdb
+C:\Users\Angel\source\repos\FirstExc\Secondlect\obj\Debug\net5.0\Secondlect.genruntimeconfig.cache

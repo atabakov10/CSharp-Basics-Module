@@ -1,0 +1,13 @@
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\bin\Release\netcoreapp3.1\04. Personal Titles.exe
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\bin\Release\netcoreapp3.1\04. Personal Titles.deps.json
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\bin\Release\netcoreapp3.1\04. Personal Titles.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\bin\Release\netcoreapp3.1\04. Personal Titles.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\bin\Release\netcoreapp3.1\04. Personal Titles.dll
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\bin\Release\netcoreapp3.1\04. Personal Titles.pdb
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.dll
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.pdb
+C:\Users\Angel\source\repos\Harder excs\04. Personal Titles\obj\Release\netcoreapp3.1\04. Personal Titles.genruntimeconfig.cache

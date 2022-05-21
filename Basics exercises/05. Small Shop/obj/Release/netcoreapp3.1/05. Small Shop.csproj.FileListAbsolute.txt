@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\bin\Release\netcoreapp3.1\05. Small Shop.exe
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\bin\Release\netcoreapp3.1\05. Small Shop.deps.json
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\bin\Release\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\bin\Release\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\bin\Release\netcoreapp3.1\05. Small Shop.dll
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\bin\Release\netcoreapp3.1\05. Small Shop.pdb
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.dll
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.pdb
+C:\Users\Angel\source\repos\Harder excs\05. Small Shop\obj\Release\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

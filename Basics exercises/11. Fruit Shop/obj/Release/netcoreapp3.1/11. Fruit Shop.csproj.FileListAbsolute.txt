@@ -1,0 +1,13 @@
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\bin\Release\netcoreapp3.1\11. Fruit Shop.exe
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\bin\Release\netcoreapp3.1\11. Fruit Shop.deps.json
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\bin\Release\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\bin\Release\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\bin\Release\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\bin\Release\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\Angel\source\repos\Harder excs\11. Fruit Shop\obj\Release\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

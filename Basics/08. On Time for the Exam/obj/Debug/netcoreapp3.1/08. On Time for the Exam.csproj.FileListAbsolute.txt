@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.exe
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.deps.json
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+C:\Users\Angel\source\repos\Harder than the usual harder excs\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.genruntimeconfig.cache

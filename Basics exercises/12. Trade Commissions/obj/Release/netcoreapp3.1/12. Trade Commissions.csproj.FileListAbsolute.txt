@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\bin\Release\netcoreapp3.1\12. Trade Commissions.exe
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\bin\Release\netcoreapp3.1\12. Trade Commissions.deps.json
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\bin\Release\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\bin\Release\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\bin\Release\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\bin\Release\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\Angel\source\repos\Harder excs\12. Trade Commissions\obj\Release\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache

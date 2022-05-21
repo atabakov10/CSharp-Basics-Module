@@ -1,0 +1,13 @@
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\bin\Release\netcoreapp3.1\Fruit or Vegetable.exe
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\bin\Release\netcoreapp3.1\Fruit or Vegetable.deps.json
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\bin\Release\netcoreapp3.1\Fruit or Vegetable.runtimeconfig.json
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\bin\Release\netcoreapp3.1\Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\bin\Release\netcoreapp3.1\Fruit or Vegetable.dll
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\bin\Release\netcoreapp3.1\Fruit or Vegetable.pdb
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.dll
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.pdb
+C:\Users\Angel\source\repos\Harder excs\Fruit or Vegetable\obj\Release\netcoreapp3.1\Fruit or Vegetable.genruntimeconfig.cache

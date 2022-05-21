@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\test\02. Deer of Santa\bin\Debug\netcoreapp3.1\02. Deer of Santa.exe
+C:\Users\Angel\source\repos\test\02. Deer of Santa\bin\Debug\netcoreapp3.1\02. Deer of Santa.deps.json
+C:\Users\Angel\source\repos\test\02. Deer of Santa\bin\Debug\netcoreapp3.1\02. Deer of Santa.runtimeconfig.json
+C:\Users\Angel\source\repos\test\02. Deer of Santa\bin\Debug\netcoreapp3.1\02. Deer of Santa.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\test\02. Deer of Santa\bin\Debug\netcoreapp3.1\02. Deer of Santa.dll
+C:\Users\Angel\source\repos\test\02. Deer of Santa\bin\Debug\netcoreapp3.1\02. Deer of Santa.pdb
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.AssemblyInfo.cs
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.dll
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.pdb
+C:\Users\Angel\source\repos\test\02. Deer of Santa\obj\Debug\netcoreapp3.1\02. Deer of Santa.genruntimeconfig.cache

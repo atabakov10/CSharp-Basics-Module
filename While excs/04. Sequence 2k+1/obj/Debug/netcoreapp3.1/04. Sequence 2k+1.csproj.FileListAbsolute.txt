@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\Users\Angel\source\repos\01. Read Text\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache

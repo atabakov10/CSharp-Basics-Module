@@ -1,0 +1,15 @@
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\SecExc.exe
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\SecExc.deps.json
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\SecExc.runtimeconfig.json
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\SecExc.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\SecExc.dll
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\ref\SecExc.dll
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\bin\Debug\net5.0\SecExc.pdb
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.AssemblyInfo.cs
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.dll
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\ref\SecExc.dll
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.pdb
+C:\Users\Angel\source\repos\SecLecture\ConsoleApp1\obj\Debug\net5.0\SecExc.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\SeventhExc.exe
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\SeventhExc.deps.json
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\SeventhExc.runtimeconfig.json
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\SeventhExc.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\SeventhExc.dll
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\ref\SeventhExc.dll
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\bin\Debug\net5.0\SeventhExc.pdb
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.AssemblyInfo.cs
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.dll
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\ref\SeventhExc.dll
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.pdb
+C:\Users\Angel\source\repos\FirstExc\SeventhExc\obj\Debug\net5.0\SeventhExc.genruntimeconfig.cache

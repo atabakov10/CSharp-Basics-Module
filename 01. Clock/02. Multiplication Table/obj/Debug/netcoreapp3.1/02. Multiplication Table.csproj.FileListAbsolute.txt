@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.exe
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.deps.json
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.runtimeconfig.json
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.dll
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.pdb
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.AssemblyInfo.cs
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.dll
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.pdb
+C:\Users\Angel\source\repos\01. Clock\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.genruntimeconfig.cache

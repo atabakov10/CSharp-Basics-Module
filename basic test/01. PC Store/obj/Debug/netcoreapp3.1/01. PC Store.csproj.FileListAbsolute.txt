@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\test\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.exe
+C:\Users\Angel\source\repos\test\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.deps.json
+C:\Users\Angel\source\repos\test\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.runtimeconfig.json
+C:\Users\Angel\source\repos\test\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\test\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.dll
+C:\Users\Angel\source\repos\test\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.pdb
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.AssemblyInfo.cs
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.dll
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.pdb
+C:\Users\Angel\source\repos\test\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.genruntimeconfig.cache
